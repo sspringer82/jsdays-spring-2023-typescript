@@ -18,6 +18,9 @@
   * https://immutable-js.com/
 * https://lodash.com/
 * https://developer.mozilla.org/
+* https://www.typescriptlang.org/docs/handbook/utility-types.html
+* https://www.destroyallsoftware.com/talks/wat
+* https://www.ecma-international.org/wp-content/uploads/ECMA-262_13th_edition_june_2022.pdf
 
 # Setup
 * `npm create vite@latest my-ts-vite-app -- --template vanilla-ts`
