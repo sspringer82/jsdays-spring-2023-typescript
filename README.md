@@ -21,6 +21,7 @@
 * https://www.typescriptlang.org/docs/handbook/utility-types.html
 * https://www.destroyallsoftware.com/talks/wat
 * https://www.ecma-international.org/wp-content/uploads/ECMA-262_13th_edition_june_2022.pdf
+* https://github.com/DefinitelyTyped/DefinitelyTyped
 
 # Setup
 * `npm create vite@latest my-ts-vite-app -- --template vanilla-ts`
