@@ -9,3 +9,6 @@
   * Github stars
   * open vs. closed issues
 * https://docs.npmjs.com/cli/v9/using-npm/scripts
+
+# Setup
+* `npm create vite@latest my-ts-vite-app -- --template vanilla-ts`
