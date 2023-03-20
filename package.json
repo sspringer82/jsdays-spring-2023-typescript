@@ -1,0 +1,24 @@
+{
+  "name": "jsdays-spring-2023-typescript",
+  "version": "1.0.0",
+  "description": "* https://nodejs.org/en * https://www.npmjs.com/ * https://yarnpkg.com/ * https://deno.land/ * https://npmtrends.com/   * Weekly downloads   * Github stars   * open vs. closed issues * https://docs.npmjs.com/cli/v9/using-npm/scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspringer82/jsdays-spring-2023-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sspringer82/jsdays-spring-2023-typescript/issues"
+  },
+  "homepage": "https://github.com/sspringer82/jsdays-spring-2023-typescript#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
