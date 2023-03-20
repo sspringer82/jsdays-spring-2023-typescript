@@ -1,5 +1,8 @@
 {
-  "extends": "./tsconfig",
+  "extends": "./tsconfig.base",
   "exclude": [],
-  "include": ["src/**/*.test.ts"]
+  "include": ["src/**/*.test.ts"],
+  "compilerOptions": {
+    "sourceMap": true
+  }
 }
